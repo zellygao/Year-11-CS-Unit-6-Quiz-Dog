@@ -24,7 +24,7 @@ Good luck, have fun! :)
 
 Inside the main method ...
 
-1. Create a Dog object. The reference to this Dog object should be called <b>dog</b>. The Dog's name should be Jill, age 2, colour black and tan. This should be done in a <b>single</b> statement.
+1. Create a <b>Dog</b> object. The reference to this Dog object should be called <b>dog</b>. The Dog's name should be Jill, age 2, colour black and tan. This should be done in a <b>single</b> statement.
 2. Use a <b>setter</b> method to change the Dog's name from Jill to Jessie.
 3. Use a <b>getter</b> method and <b>print</b> statement to print out the age of Jessie. Print out the age only, and use the <b>println</b> method to print. Do this using a <b>single</b> statement.
 4. Call the <b>birthday</b> method and store this into a variable called <b>age</b>.
