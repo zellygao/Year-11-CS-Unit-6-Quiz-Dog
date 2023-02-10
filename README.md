@@ -30,4 +30,4 @@ Inside the main method ...
 4. Use a <b>getter</b> method and <b>print</b> statement to print out the age of Jessie. Print out the age only, and use the <b>println</b> method to print. Do this using a <b>single</b> statement.
 5. Call the <b>birthday</b> method and store this into a variable called <b>age</b>.
 6. Print out the contents of the variable called <b>age</b>. Use the <b>println</b> method to print.
-7. Print out the current state of the Dog object. That is, print the <b>reference</b> to the Dog object. This will automatically call the toString method. 
+7. Print out the <b>current state</b> of the Dog object. That is, print the <b>reference</b> to the Dog object. This will automatically call the toString method. 
