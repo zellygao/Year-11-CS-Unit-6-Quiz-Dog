@@ -1,6 +1,6 @@
 # Year-11-CS-Unit-6-Quiz-Dog
 
-Ensure that you read all instructions <b>carefully</b>. Each question is worth one mark and is binary. That is, you either get 1 mark or 0 marks for each question (there are 14 questions on this quiz hence this quiz is worth 14 marks in total). The <i>only</i> application that is running on your computer is your <b>IDE</b>. When you are ready to submit your quiz, please share it on <b>github</b> and ensure that all of your work has been <b>pushed</b> to your repository. Double check this by <b>confirming</b> that your <b>completed</b> classes exist in your repository on <b>github</b>. Submit the <b>link</b> to your repository on <b>Schoology</b>. 
+Ensure that you read all instructions <b>carefully</b>. Each question is worth one mark and is binary. That is, you either get 1 mark or 0 marks for each question (there are 14 questions on this quiz hence this quiz is worth 14 marks in total). The <i>only</i> application that is to be running on your computer is your <b>IDE</b>. When you are ready to submit your quiz, please share it on <b>github</b> and ensure that all of your work has been <b>pushed</b> to your repository. Double check this by <b>confirming</b> that your <b>completed</b> classes exist in your repository on <b>github</b>. Submit the <b>link</b> to your repository on <b>Schoology</b>. 
 
 Good luck, have fun! :)
 
