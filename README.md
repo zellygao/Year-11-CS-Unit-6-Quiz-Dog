@@ -3,8 +3,8 @@
 # class Dog
 
 1. A Dog class will have <b>three</b> instance variables. Ensure that each instance variable is declared as <b>private</b>.  
-* age
-* name
+* age (int)
+* name (String)
 * color (String)
 2. A Dog class will have <b>two</b> constructors. 
 * The first constructor will be <b>parameterless</b> and will initialize age to 0, and name and color to empty Strings. 
