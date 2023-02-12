@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class DogMaker {
+public class DogMaker {
+  
+  public static void main(String[] args) {
+    
+    
+  }
+  
 }
