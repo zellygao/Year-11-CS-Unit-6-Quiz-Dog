@@ -18,7 +18,7 @@ Good luck, have fun! :)
 5. A Dog class will have a <b>private</b> method called <b>addOneAge</b> that is parameterless and increments the age of the Dog.
 6. A Dog class will have a method called <b>birthday</b> that <b>calls addOneAge</b> and <b>returns the age</b> of the Dog.
 7. A Dog class will have a <b>toString</b> method that returns, for example, a String in the following format:
-* "The dog is named Marlo and is 5 years old. This dog is black."
+* "The dog is named Marlo and is 5 years old. This dog is black." (Quotations are shown to represent that this is a string. The quotations do not need to be included in the returned String.)
 
 # class DogMaker
 
