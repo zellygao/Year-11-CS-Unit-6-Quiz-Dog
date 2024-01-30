@@ -22,7 +22,7 @@ Good luck, have fun! :)
 
 # class Owner
 
-1. An Owner class will have three instance variables. Ensure that each instance variable is declared as private. 
+1. An Owner class will have <b>three</b> instance variables. Ensure that each instance variable is declared as <b>private</b>. 
 * firstName (String)
 * lastName (String)
 * phoneNumber (String)
