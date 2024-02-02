@@ -12,7 +12,7 @@ public class Owner {
     public String getFirstName(){
         return firstName;
     }
-    public String getLirstName(){
+    public String getLastName(){
         return lastName;
     }
     public String getPhoneNumber(){
